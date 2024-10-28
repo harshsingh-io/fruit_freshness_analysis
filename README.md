@@ -4,7 +4,9 @@
 This project utilizes a deep learning model to analyze the freshness of fruits from images. The project has gone through multiple versions to improve model accuracy and real-world applicability. The current version (v2) integrates model fine-tuning and real-world use-case predictions, building upon the previous version's (v1) baseline model.
 ## Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7LAQh5VaDM?si=8CCu68YNAl4eJSM1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Click below to see the demo video: 
+
+[![Click Here to see the demo Video](https://github.com/harshsingh-io/fruit_freshness_analysis/blob/main/image.png)](https://youtu.be/K7LAQh5VaDM)
 
 ## Documentation
 
